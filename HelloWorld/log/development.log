@@ -1,0 +1,15 @@
+
+
+Started GET "/" for ::1 at 2016-05-18 03:46:16 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (24.6ms)
+Completed 200 OK in 3013ms (Views: 2986.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-05-18 03:46:20 -0400
+
+
+Started GET "/" for ::1 at 2016-05-18 10:48:05 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (24.8ms)
+Completed 200 OK in 418ms (Views: 391.1ms | ActiveRecord: 0.0ms)
